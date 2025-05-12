@@ -1,5 +1,5 @@
-- 👋 Hi, I’m OS, ostronics.(foreground_Daemon)
-- 👀 I’m interested in webdesign, coding, electronics builds and repair, cyber security/Penetration testing.
-- 🌱 I’m currently learning C programming language.
+- 👋 Hi, I’m OS, ostronics
+- 👀 I’m interested in webdesign, coding, electronics builds and repair, cyber security/Pentesting, Malwares & Analysis.
+- 🌱 I’m currently learning (C | Go| Java) programming language.
 - 💞️ I’m looking to collaborate on Electronics build, and python programming project.
 - 💞️ I'm available for python automation, webscraping and telegram bot gigs.
